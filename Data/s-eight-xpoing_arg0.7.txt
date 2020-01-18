@@ -1,0 +1,4 @@
+函数名称 参数1 参数2 参数3 参数4 参数5
+num_samplesInprj_notsensitive = 10, num_samplesInprj_sensitive = 19
+Antminer: TP=1,FP=0,TN=10,FN=18,TPR=0.05,FPR=0.0
+Proposed: TP=2,FP=0,TN=10,FN=17,TPR=0.11,FPR=0.0
